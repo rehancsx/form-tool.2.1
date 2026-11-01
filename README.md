@@ -1,7 +1,5 @@
 # Form-Tool
 
-A simple local web server that displays a contact information form (First Name, Last Name, Email, Address, City, Province, Country) in the browser and saves submissions to `data.txt`.
-
 ## ⚠️ Disclaimer
 
 This tool is intended for **educational purposes only**. Please use it for legal activities only. The author is not responsible for any misuse of this tool.

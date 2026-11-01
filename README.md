@@ -5,14 +5,7 @@ A simple local web server that displays a contact information form (First Name, 
 ## ⚠️ Disclaimer
 
 This tool is intended for **educational purposes only**. Please use it for legal activities only. The author is not responsible for any misuse of this tool.
-
-This tool runs **only on localhost (127.0.0.1)** — it is not designed or intended to be exposed to the public internet. It is meant for collecting information from people you interact with directly (e.g. onboarding a team member, a client, a collaborator) with their full knowledge and consent.
-
 ## Features
-
-- Simple, clean HTML contact form served locally
-- Collects: First Name, Last Name, Email, Address, City, Province, Country
-- Submitted data is saved to `data.txt` with a timestamp
 - No external dependencies — uses only the Python standard library
 - Works on Linux, macOS, and Termux (Android)
 
